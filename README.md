@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-Hecho en React, con Vite y Tailwind Css. Cree un Custom Hooks, se mejoro la performance renderizando ciertos componentes, utilice useMemo y useCallback, deply en netlify
+Hecho en React, con Vite y Tailwind Css. Implemente useReducer, se mejoro la performance renderizando ciertos componentes, utilice useMemo y useCallback, deploy en netlify
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
